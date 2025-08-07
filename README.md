@@ -1,5 +1,5 @@
 ## 演示 
-![image](public/images/plugin_settings.png)
+![image]([public/images/plugin_settings.png](https://github.com/klrpxy/obsidian-side-hide-trigger/blob/master/images/plugin_settings.png))
 
 ## 中文
 
