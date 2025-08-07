@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "side-hide-trigger",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Automatically hides or shows the left sidebar based on file path, type, or YAML frontmatter.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
