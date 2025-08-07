@@ -1,3 +1,6 @@
+## 演示 
+![image](public/images/plugin_settings.png)
+
 ## 中文
 
 警告：此内容由AI生成。
